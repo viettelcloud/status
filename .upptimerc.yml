@@ -2,9 +2,6 @@
 owner: viettelcloud # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
-# User agent string sent with HTTP requests
-user-agent: viettelcloud
-
 sites:
   - name: CGV Cinemas
     url: https://www.cgv.vn
