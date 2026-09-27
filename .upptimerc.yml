@@ -6,6 +6,7 @@ sites:
   - name: CGV Cinemas
     check: tcp-ping
     url: cgv.vn
+    icon: https://www.cgv.vn/media/favicon/default/cgvcinemas-vietnam-favicon.ico
     type: globalping
     location: Vietnam
   - name: Galaxy Cinema
