@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cgv.vn.ico",
     "slug": "cgv-cinemas",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.00%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-27": 0
+    }
   },
   {
     "name": "Wikipedia",
