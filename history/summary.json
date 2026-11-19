@@ -5,15 +5,15 @@
     "icon": "https://www.cgv.vn/media/favicon/default/cgvcinemas-vietnam-favicon.ico",
     "slug": "cgv-cinemas",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 21,
-    "timeDay": 22,
+    "timeDay": 23,
     "timeWeek": 17,
-    "timeMonth": 20,
+    "timeMonth": 19,
     "timeYear": 21,
     "dailyMinutesDown": {
       "2026-09-27": 239
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 324,
-    "timeDay": 205,
-    "timeWeek": 215,
-    "timeMonth": 316,
+    "timeDay": 289,
+    "timeWeek": 236,
+    "timeMonth": 295,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2026-09-27": 43
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 191,
-    "timeDay": 182,
+    "timeDay": 244,
     "timeWeek": 230,
-    "timeMonth": 204,
+    "timeMonth": 206,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-09-27": 42
